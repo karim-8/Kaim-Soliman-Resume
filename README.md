@@ -1,4 +1,6 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+<img alt="Coding" height="400" src="https://images.unsplash.com/photo-1587620962725-abab7fe55159?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2662&q=80" style="width:100%;">
+
+
 <h1 align="center">Hello 👋, I'm Karim</h1>
 <h3 align="center">Senior Mobile Application Developer ✨</h3>
 <img align="right" alt="Coding" width="400" src="https://static1.s123-cdn-static-a.com/uploads/5555641/normal_614650aa3c2a1.gif">
@@ -13,15 +15,15 @@
 
 - 🤝 I regularly write articles on [Medium](https://medium.com/@Karim_Soliman)
 
-- 👨‍💻 All of my projects are available at [https://github.com/karim-8?tab=repositories](https://github.com/karim-8?tab=repositories)
+- 👨‍💻 All of my projects are available <a href="https://github.com/karim-8?tab=repositories](https://github.com/karim-8?tab=repositories">Here</a> 
 
 - 💬 Ask me about **iOS / Flutter / Android / React native**
 
-- 📫 How to reach me **kariimAhmed8@gmail.com**
+- 📫 Let's Contact reach me through <a href="kariimAhmed8@gmail.com">Mail</a> 
 
-- 📄 Know about my experiences [https://github.com/karim-8/Kaim-Soliman-Resume](https://github.com/karim-8/Kaim-Soliman-Resume)
+- 📄 Know about my experiences from my <a href="https://github.com/karim-8/Kaim-Soliman-Resume](https://github.com/karim-8/Kaim-Soliman-Resume">Resume</a> 
 
-- ⚡ Fun fact **I'm a pro at PlayStation**
+- ⚡ Fun fact **I'm always on diet 🍔**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
