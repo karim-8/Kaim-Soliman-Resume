@@ -42,3 +42,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karim-8&show_icons=true&locale=en" alt="karim-8" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karim-8&" alt="karim-8" /></p>
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=karim-8&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
