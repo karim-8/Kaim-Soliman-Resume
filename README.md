@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I'm Karim</h1>
 <h3 align="center">Senior Mobile Application Developer ✨</h3>
-<img align=right“ alt=“Coding” width=“400” src=“https://static1.s123-cdn-static-a.com/uploads/5555641/normal_614650aa3c2a1.gif”></img>
+<img align="right" alt="Coding" width="400" src="https://static1.s123-cdn-static-a.com/uploads/5555641/normal_614650aa3c2a1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karim-8&label=Profile%20views&color=0e75b6&style=flat" alt="karim-8" /> </p>
 
